@@ -6,14 +6,14 @@
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
 
-        "appid": "pub-8074230319419198",
-        "admobappid": "ca-app-pub-8074230319419198~3870167875",
-        "interid": "74f2abbd06bc77f0",
-        "bannerid": "ad2473cd74b31e2f",
+        "appid": "pub-9514878813145557",
+        "admobappid": "ca-app-pub-9514878813145557~5257134292",
+        "interid": "ca-app-pub-9514878813145557/3155073347",
+        "bannerid": "ca-app-pub-9514878813145557/3348338015",
     
 
-        "inter_splash":"0",
-        "pengaturan_iklan":"4",
+        "inter_splash":"1",
+        "pengaturan_iklan":"1",
         
         "deskripsi_update": "Update App",
         "link_update": "https://yolink.xyz/HotFlix.apk",
@@ -26,11 +26,11 @@
         "startappid":"207906230",
 
         
-        "hpk_admob1":"",
-        "hpk_admob2":"",
-        "hpk_admob3":"",
-        "hpk_admob4":"",
-        "hpk_admob5":""
+        "hpk_admob1":"forex",
+        "hpk_admob2":"finance",
+        "hpk_admob3":"lawyer",
+        "hpk_admob4":"injury",
+        "hpk_admob5":"crypto"
   
 
         }
