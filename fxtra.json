@@ -13,7 +13,7 @@
     
 
         "inter_splash":"1",
-        "pengaturan_iklan":"1",
+        "pengaturan_iklan":"4",
         
         "deskripsi_update": "Update App",
         "link_update": "https://yolink.xyz/HotFlix.apk",
@@ -22,8 +22,8 @@
         "fan_inter":"453611232637710_453611439304356",
         "fan_banner":"453611232637710_454016275930539",
 
-        "interval":4,
-        "startappid":"207906230",
+        "interval":3,
+        "startappid":"203645765",
 
         
         "hpk_admob1":"forex",
